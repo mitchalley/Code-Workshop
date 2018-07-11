@@ -14,6 +14,7 @@
 		FEEB3B4820F6508D0018CF91 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEEB3B4620F6508D0018CF91 /* LaunchScreen.storyboard */; };
 		FEEB3B5320F6508F0018CF91 /* NewProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEB3B5220F6508F0018CF91 /* NewProjectTests.swift */; };
 		FEEB3B5E20F650910018CF91 /* NewProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEB3B5D20F650910018CF91 /* NewProjectUITests.swift */; };
+		FEEB3B6E20F651FB0018CF91 /* Scene2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEEB3B6D20F651FB0018CF91 /* Scene2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FEEB3B5920F650910018CF91 /* NewProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NewProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FEEB3B5D20F650910018CF91 /* NewProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewProjectUITests.swift; sourceTree = "<group>"; };
 		FEEB3B5F20F650920018CF91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FEEB3B6D20F651FB0018CF91 /* Scene2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scene2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				FEEB3B3D20F650890018CF91 /* AppDelegate.swift */,
 				FEEB3B3F20F650890018CF91 /* ViewController.swift */,
+				FEEB3B6D20F651FB0018CF91 /* Scene2ViewController.swift */,
 				FEEB3B4120F6508A0018CF91 /* Main.storyboard */,
 				FEEB3B4420F6508B0018CF91 /* Assets.xcassets */,
 				FEEB3B4620F6508D0018CF91 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				FEEB3B4020F6508A0018CF91 /* ViewController.swift in Sources */,
 				FEEB3B3E20F650890018CF91 /* AppDelegate.swift in Sources */,
+				FEEB3B6E20F651FB0018CF91 /* Scene2ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
